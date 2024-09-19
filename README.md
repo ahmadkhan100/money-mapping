@@ -29,7 +29,7 @@ Money Mapper is a Next.js 13 fullstack finance tracker for organizing personal f
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/0mppula/money-mapper.git
+git clone https://github.com/ahmadkhan100/money-mapper.git
 ```
 
 ### Install packages
