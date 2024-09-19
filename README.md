@@ -1,22 +1,22 @@
-# Money Mapper
+# Money Mapping
 
-## What is Money Mapper?
+## What is Money Mapping?
 
-Money Mapper is a Next.js 13 fullstack finance tracker for organizing personal finances. Covers income, taxes, assets, debt, and net worth management. Utilizes next-auth for user authentication and stores user data in a MongoDB database with prisma ORM. The app uses shadcn-ui with tailwind css, providing a visually appealing and responsive user interface. Global client state is managed with zustand, ensuring efficient and streamlined data management across the app. Emphasizing user experience, the app offers both dark and light modes to suit individual preferences. To enhance data visualization, financial information is presented through interactive charts and comprehensive tables, allowing users to gain valuable insights at a glance.
+Money Mapping is a Next.js 13 fullstack finance tracker for organizing personal finances. Covers income, taxes, assets, debt, and net worth management. Utilizes next-auth for user authentication and stores user data in a MongoDB database with prisma ORM. The app uses shadcn-ui with tailwind css, providing a visually appealing and responsive user interface. Global client state is managed with zustand, ensuring efficient and streamlined data management across the app. Emphasizing user experience, the app offers both dark and light modes to suit individual preferences. To enhance data visualization, financial information is presented through interactive charts and comprehensive tables, allowing users to gain valuable insights at a glance.
 
 ---
 
 ## The Dashboard page
 
-![Money Mapper dashboad page](/public/images/dashboard.png)
+![Money Mapping dashboad page](/public/images/dashboard.png)
 
 ## The Money page
 
-![Money Mapper money page](/public/images/money.png)
+![Money Mapping money page](/public/images/money.png)
 
 ## The Login page
 
-![Money Mapper login page](/public/images/login.png)
+![Money Mapping login page](/public/images/login.png)
 
 ---
 
@@ -108,4 +108,3 @@ Running commands with npm `npm run [command]`
 -   **TypeScript:** (v5.1.6)
 -   **Type Definitions:** @types/node (v20.4.5), @types/react (v18.2.18), @types/react-dom (v18.2.7)
 
-[Money Mapper]: https://moneymapper.vercel.app/
