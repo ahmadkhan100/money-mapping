@@ -2,7 +2,7 @@
 
 ## What is Money Mapper?
 
-[Money Mapper][Money Mapper] is a Next.js 13 fullstack finance tracker for organizing personal finances. Covers income, taxes, assets, debt, and net worth management. Utilizes next-auth for user authentication and stores user data in a MongoDB database with prisma ORM. The app uses shadcn-ui with tailwind css, providing a visually appealing and responsive user interface. Global client state is managed with zustand, ensuring efficient and streamlined data management across the app. Emphasizing user experience, the app offers both dark and light modes to suit individual preferences. To enhance data visualization, financial information is presented through interactive charts and comprehensive tables, allowing users to gain valuable insights at a glance.
+[Money Mapper] is a Next.js 13 fullstack finance tracker for organizing personal finances. Covers income, taxes, assets, debt, and net worth management. Utilizes next-auth for user authentication and stores user data in a MongoDB database with prisma ORM. The app uses shadcn-ui with tailwind css, providing a visually appealing and responsive user interface. Global client state is managed with zustand, ensuring efficient and streamlined data management across the app. Emphasizing user experience, the app offers both dark and light modes to suit individual preferences. To enhance data visualization, financial information is presented through interactive charts and comprehensive tables, allowing users to gain valuable insights at a glance.
 
 ---
 
