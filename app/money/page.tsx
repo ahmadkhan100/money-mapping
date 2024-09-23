@@ -1,3 +1,6 @@
+'use client';
+
+import React from 'react';
 import PageContainer from '@/components/PageContainer';
 import { TypographyH1 } from '@/components/TypographyH1';
 import { mainAppDescription } from '@/constants';
